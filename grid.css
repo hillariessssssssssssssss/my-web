@@ -1,0 +1,38 @@
+body{
+    margin-left: 100px;
+    margin-right: 0px;
+}
+.love{
+    width: 100%;
+}
+
+.in{
+    display: inline-block;
+    width: 170px;
+}
+.inn,.gd{
+    display: inline-block;
+}
+.al{
+    border-radius: 80%;
+}
+.rd{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 10px;
+}
+.header{
+    display: flex;
+    align-items:top;
+}
+.sea{
+    border: solid;
+    border-radius: 20px;
+}
+.nv{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
